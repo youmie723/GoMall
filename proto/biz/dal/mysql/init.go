@@ -1,7 +1,7 @@
 package mysql
 
 import (
-	"github.com/youmei723/GoMall/conf"
+	"github.com/youmie723/GoMall/conf"
 
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

@@ -1,4 +1,4 @@
-module github.com/youmei723/GoMall
+module github.com/youmie723/GoMall
 
 go 1.21
 

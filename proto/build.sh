@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-RUN_NAME="a.b.c"
+RUN_NAME="gomall"
 mkdir -p output/bin output/conf
 cp script/* output/
 cp -r conf/* output/conf

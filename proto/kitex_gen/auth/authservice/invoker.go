@@ -4,7 +4,7 @@ package authservice
 
 import (
 	server "github.com/cloudwego/kitex/server"
-	auth "github.com/youmei723/GoMall/proto/kitex_gen/auth"
+	auth "github.com/youmie723/GoMall/proto/kitex_gen/auth"
 )
 
 // NewInvoker creates a server.Invoker with the given handler and options.

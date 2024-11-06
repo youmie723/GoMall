@@ -2,7 +2,7 @@ package service
 
 import (
 	"context"
-	user "github.com/youmei723/GoMall/proto/kitex_gen/user"
+	user "github.com/youmie723/GoMall/proto/kitex_gen/user"
 )
 
 type LoginService struct {
